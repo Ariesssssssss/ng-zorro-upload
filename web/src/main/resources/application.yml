@@ -1,0 +1,5 @@
+spring:
+  resources:
+    static-locations: file:/Users/lautumn/JAVALEARN/web
+  mvc:
+    static-path-pattern: /**
